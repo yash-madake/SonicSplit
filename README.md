@@ -153,5 +153,5 @@ When presenting this project to faculty or examiners, highlight these key engine
 ---
 
 ## 👨‍💻 Author
-**Manas Sunil Shewale**  
+****  
 *Signal Processing & Audio Engineering Enthusiast*
