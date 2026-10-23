@@ -1,6 +1,4 @@
-SonicSplit: Interactive Audio Separator
-
-# InstruExtract: DSP Audio Separator
+# SonicSplit: Interactive Audio Separator
 
 An interactive Python web application for isolating specific musical instruments from mixed audio and video files using Digital Signal Processing (DSP) techniques. Built with Streamlit and SciPy, this tool allows users to apply Linear Phase FIR filters to extract both Western and Indian Classical instruments based on their frequency bands.
 
