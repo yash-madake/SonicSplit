@@ -20,6 +20,7 @@ This project was developed to practically implement foundational DSP theory:
 * **Module I (Causality & Stability):** Implements strictly causal FIR filters and evaluates stability using Z-transform Pole-Zero plots.
 * **Module II (DFT & Linear Filtering):** Uses the Fast Fourier Transform (FFT) to generate magnitude spectrums and applies filters via Fast Circular Convolution in the frequency domain.
 * **Module IV (FIR Filter Design):** Designs bandpass filters using difference equations and compares various windowing techniques (Hamming, Hann, Blackman) to minimize the Gibbs phenomenon.
+* **Module V (Music Theory Integration):** Maps DSP frequency bands to musical notes and octaves, enabling users to target specific pitches and instruments by name rather than just frequency ranges.
 
 ## 💻 Installation & Usage
 

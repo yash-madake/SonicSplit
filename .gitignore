@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit
+.streamlit/
+
+# Media / Audio Testing
+*.wav
+*.mp3
+*.mkv
+*.mp4
